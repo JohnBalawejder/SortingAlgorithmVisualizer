@@ -1,5 +1,5 @@
 # SortingAlgorithmVisualizer
 
-Sorting Algorithm Visualizer(Work in Progress)
+Sorting Algorithm Visualizer
 
-Includes Bubble Sort & Insertion Sort
+Includes Bubble, Insertion, and Selection Sort
